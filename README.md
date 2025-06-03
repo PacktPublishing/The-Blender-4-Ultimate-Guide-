@@ -1,13 +1,7 @@
 # The-Blender-4-Ultimate-Guide-
-The Blender 4 Ultimate Guide, published by Packt
+The Blender 4 Ultimate Guide, published by Packt.
 
-To properly download code files from a Git LFS-updated repository without corrupting the files, please follow these straightforward steps:
-1.	Download and install the GitHub Desktop app from this link:
-    https://desktop.github.com/?ref_cta=download+desktop&ref_loc=installing+github+desktop&ref_page=docs. Open the application and sign in with your GitHub credentials.
-3.	In the GitHub Desktop app, navigate to "File" -> "Clone Repository."
-4.	In the dialog that appears, paste the URL of the repository you wish to clone into the "URL" field. Below, choose a location on your local drive where you'd like to store the repository files and click "Clone."
-5.	After cloning completes, a confirmation message will appear. Click "Show in Explorer" (or "Show in Finder" for Mac) to open the folder containing the cloned repository on your computer.
-6.	Inside this local repository folder, you should find the code files. If the files are compressed (zipped), you may use a tool like 7Zip (downloadable from https://www.7-zip.org/) to extract them.
-
-This method ensures that you get an exact copy of the repository, including all files handled by Git LFS, ready for use on your system.
+Access Your Full Course Resources and Materials!
+To get the most out of your learning experience, visit the link below to access all course resources, downloadable materials, and bonus content: https://packt.link/YGXn2
+Everything you need to follow along, practice, and deepen your understanding is just one click away!
 
